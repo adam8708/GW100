@@ -44,7 +44,7 @@ p {
 
 .site-heading .site-heading-lower {
   font-size: 5rem;
-  font-weight: 100 !important;
+  font-weight: 100;
   line-height: 4rem;
 }
 
@@ -65,7 +65,7 @@ p {
 
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 100%;
+  font-size: 3rem;
   font-weight: 100;
 }
 
