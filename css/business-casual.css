@@ -38,12 +38,12 @@ p {
 
 .site-heading .site-heading-upper {
   display: block;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 800;
 }
 
 .site-heading .site-heading-lower {
-  font-size: 5rem;
+  font-size: 6rem;
   font-weight: 100;
   line-height: 4rem;
 }
@@ -55,6 +55,7 @@ p {
 
 .section-heading {
   text-transform: uppercase;
+  font-size: 2rem;
 }
 
 .section-heading .section-heading-upper {
@@ -65,7 +66,7 @@ p {
 
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 100;
 }
 
@@ -79,7 +80,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #FF0000;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -88,7 +89,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #FF0000;
 }
 
 @media (min-width: 992px) {
@@ -144,7 +145,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: rgba(0, 0, 0, 0.65);
 }
 
 .cta .cta-inner {
@@ -240,8 +241,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #ff0000;
+  border-color: #ffffff ;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
