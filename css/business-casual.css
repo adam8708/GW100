@@ -40,6 +40,7 @@ p {
   display: block;
   font-size: 1rem;
   font-weight: 800;
+  color: #ffffff;
 }
 
 .site-heading .site-heading-lower {
@@ -71,7 +72,7 @@ p {
 }
 
 .bg-faded {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 #mainNav {
@@ -100,7 +101,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #ffffff;
   }
 }
 
@@ -246,8 +247,8 @@ p {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #df902a;
-  border-color: #df902a;
+  background-color: #ffffff;
+  border-color: #ff0000;
 }
 
 .font-weight-light {
